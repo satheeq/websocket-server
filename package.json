@@ -1,0 +1,23 @@
+{
+  "name": "websocket-server",
+  "version": "1.0.0",
+  "description": "Web socket server using NodeJS. This is a repeater at initial stage.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/satheeq/websocket-server.git"
+  },
+  "author": "satheeq",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/satheeq/websocket-server/issues"
+  },
+  "homepage": "https://github.com/satheeq/websocket-server#readme",
+  "dependencies": {
+    "ws": "^8.16.0"
+  }
+}
